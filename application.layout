@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     <!-- Site data -->
     <script>
-        setEndPoint('//thedistrict.mallmaverick.com/api/v3/district/all.json');
+        setEndPoint('//pacificpearl.mallmaverick.com/api/v3/pacificpearl/all.json');
     </script>
 </head>
 
