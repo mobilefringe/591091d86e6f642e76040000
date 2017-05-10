@@ -26,7 +26,7 @@
     function renderPage(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        if (slug == "pacificpearl-privacy-policy")
+        if (slug == "pacificpearl-privacy-policy"){
            $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750856000/pp_440x1200_side_privacy.jpg")
         }
          if (slug == "pacificpearl-contact-us"){
