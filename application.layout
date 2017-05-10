@@ -159,7 +159,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
                             <input id="newsletter_agree" type="checkbox" />
-                            I agree to receive newsletters from The District at Tustin Legacy.
+                            I agree to receive newsletters from Pacific Pearl.
                         </label>
                         <p class="hidden_now" id="success_subscribe">
                             Thank you for subscribing!
