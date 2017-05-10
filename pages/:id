@@ -26,11 +26,14 @@
     function renderPage(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        if (slug == "district-privacy-policy"){
-           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/jpeg/undefined/dtl_440x1200_side_privacy.jpg")
+        if (slug == "pacificpearl-privacy-policy")
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750856000/pp_440x1200_side_privacy.jpg")
         }
-         if (slug == "district-contact-us"){
-           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/jpeg/undefined/dtl_440x1200_side_privacy.jpg")
+         if (slug == "pacificpearl-contact-us"){
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750828000/pp_440x1200_side_contact.jpg")
+        }
+         if (slug == "pacificpearl-services"){
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750844000/pp_440x1200_side_services.jpg")
         }
         
         prefix = get_prefix();
