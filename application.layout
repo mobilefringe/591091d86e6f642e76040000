@@ -49,16 +49,22 @@
     <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.js"></script>
     <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
     
-     <!--Analytics -->
-     <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-     ga('create', '', 'auto');
-     ga('send', 'pageview');
-     
-</script> 
+    <!--Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '', 'auto');
+        ga('send', 'pageview');
+    </script> 
+    
+    <!--- Google Translate -->
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,es,pt,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+        }
+    </script>
     
     <!-- Site data -->
     <script>
@@ -67,12 +73,8 @@
 </head>
 
 <body>
-    <div id="google_translate_element"></div>
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,es,pt,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-        }
-    </script>
+    
+    
     
     <header class="main_container main_nav">
         <div class="position_relative">
@@ -92,6 +94,7 @@
                 <a href="/"><img src="//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/png/1493750956000/pp_600x180_logo.png" class="main_logo" /></a>
             </div>
             <div class="nav_container hidden_phone">
+                <div id="google_translate_element"></div>
                 <div class="social_links">
                     <a href="https://www.facebook.com/DistrictTustin" target="_blank">
                         <span id="social_facebook"></span>
