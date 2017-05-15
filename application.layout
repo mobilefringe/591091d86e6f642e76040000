@@ -73,9 +73,6 @@
 </head>
 
 <body>
-    
-    
-    
     <header class="main_container main_nav">
         <div class="position_relative">
             <img src="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/1463501219000/open_menu.png" class="open_menu visible_phone" alt="open menu">
@@ -89,7 +86,7 @@
                 <li class="hidden_now mobile_menu_dd"><a href="/pages/pacificpearl-contact-us">CONTACT</a></li>
             </ul>
         </div>
-        <div class="row">
+        <div class="row top_nav">
             <div id="google_translate_element"></div>
             <div class="logo_container">
                 <a href="/">
