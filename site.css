@@ -54,6 +54,14 @@ $animation_color: #a5afb0;
     margin-top: 0;
     max-height: 90px;
 }
-
+.nav_container {
+    position: relative;
+}
+#google_translate_element {
+    position: absolute;
+    top: 3px;
+    right: 140px;
+}
+}
 
 
