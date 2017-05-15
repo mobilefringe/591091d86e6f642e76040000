@@ -36,10 +36,11 @@
     
     <script src="//codecloud.cdn.speedyrails.net/sites/579231876e6f6467cf000000/application/x-javascript/1468507772000/moment.min.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/579231876e6f6467cf000000/application/x-javascript/1468507661000/moment-timezone-with-data.min.js"></script>
-     <script src="//codecloud.cdn.speedyrails.net/sites/5438407c6e6f64462d020000/601617fe9ab691b1b62a66ac3ca3e8b7/jquery.cookie.js"></script>
+    <script src="//codecloud.cdn.speedyrails.net/sites/5438407c6e6f64462d020000/601617fe9ab691b1b62a66ac3ca3e8b7/jquery.cookie.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/56056be06e6f641a1d020000/application/x-javascript/1404372988000/instagram.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/56056be06e6f641a1d020000/text/javascript/1446569669000/instafeed.min.js"></script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="//580904016e6f64160b020000.codecloudapp.com/application.js" type="text/javascript"></script>
     <script src="//580904016e6f64160b020000.codecloudapp.com/helpers.js" type="text/javascript"></script>
     <script src="../site.js" type="text/javascript"></script>
@@ -66,6 +67,13 @@
 </head>
 
 <body>
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,es,pt,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+        }
+    </script>
+    
     <header class="main_container main_nav">
         <div class="position_relative">
             <img src="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/1463501219000/open_menu.png" class="open_menu visible_phone" alt="open menu">
