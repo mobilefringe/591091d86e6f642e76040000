@@ -108,6 +108,12 @@
               
    
         stores = stores.concat(s1)
+        stores = stores.concat(s2)
+        stores = stores.concat(s3)
+        stores = stores.concat(s4)
+        stores = stores.concat(s5)
+        stores = stores.concat(s6)
+        
     
         var newarr = [];
         var unique = {};
