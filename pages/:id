@@ -35,6 +35,9 @@
          if (slug == "pacificpearl-services"){
            $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750844000/pp_440x1200_side_services.jpg")
         }
+        if (slug == "pacificpearl-leasing-contacts"){
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/591091d86e6f642e76040000/image/jpeg/1493750828000/pp_440x1200_side_contact.jpg")
+        }
         
         prefix = get_prefix();
         $('#top_banner').addClass(slug)
