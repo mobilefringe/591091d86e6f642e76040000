@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
     <link rel="icon" type="image/png" href="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/1462909257000/favicon_vestar.png">
     <!--Update each web pages SEO to set values for {{meta_title}}, {{meta_description}}, {{meta_keywords}} -->
     <meta charset="utf-8">
@@ -20,20 +18,18 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
    
-   <!--CSS-->
-    
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/flexslider.css" rel="stylesheet">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link href="//580904016e6f64160b020000.codecloudapp.com/application.css" rel="stylesheet" />
+    <!--CSS-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/flexslider.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//580904016e6f64160b020000.codecloudapp.com/application.css" rel="stylesheet">
     <link href="../site.css" rel="stylesheet">
     
     <!--Javascript-->
     <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-    
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/579231876e6f6467cf000000/application/x-javascript/1468507772000/moment.min.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/579231876e6f6467cf000000/application/x-javascript/1468507661000/moment-timezone-with-data.min.js"></script>
     <script src="//codecloud.cdn.speedyrails.net/sites/5438407c6e6f64462d020000/601617fe9ab691b1b62a66ac3ca3e8b7/jquery.cookie.js"></script>
