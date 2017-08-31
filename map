@@ -31,8 +31,8 @@
     
     function renderPage(){
          var stores = getStoresList();
-        renderStoreList('#stores_container','#stores_template', stores, "stores", "A", "Z");
-        renderStoreList('#landmark_container','#landmark_template', stores, "stores", "A", "Z");
+        renderStoreList('#stores_container','#stores_template', stores, "stores", "#", "Z");
+        renderStoreList('#landmark_container','#landmark_template', stores, "stores", "#", "Z");
         show_content();
         $('#top_nav_stores').addClass('active_yellow')
         
