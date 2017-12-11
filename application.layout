@@ -175,7 +175,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2017 Pacific Pearl
+                © Copyright <span class="current_year"></span> Pacific Pearl
             </p>
             <p class="footer_text">
                2693-2733 Stoneridge Drive, Pleasanton, CA 94588
@@ -192,7 +192,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2017 Pacific Pearl 
+                    © Copyright <span class="current_year"></span> Pacific Pearl 
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
